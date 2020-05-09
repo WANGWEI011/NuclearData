@@ -4,3 +4,5 @@
 
 第一步是检查文件路径，评价数据库文件和NJOY2016程序，需要使用者自己复制到指定文件夹中。比如你只想加工U235和U238两种核素，则只需要复制这两种核素的对应的
 endf格式的文件到input文件夹中；加工脚本默认的NJOY程序的名称为“NJOY2016.exe”.
+
+！[image](https://github.com/WANGWEI011/NuclearData/blob/master/image/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20200509181635.png)
